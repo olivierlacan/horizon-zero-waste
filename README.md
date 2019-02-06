@@ -1,6 +1,6 @@
 # Horizon Zero Waste 
 
-A simple guide to zero or low waste alternatives.
+A simple guide to sustainable alternatives.
 
 ## 🍎 Food & Drinks
 
