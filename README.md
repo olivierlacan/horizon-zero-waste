@@ -2,10 +2,11 @@
 
 A simple guide to zero or low waste alternatives.
 
-## 🍎 Food 
+## 🍎 Food & Drinks
 
 | Default | Alternative |
 | --- | --- | 
+| Bottled water | Filtered water and insulated metal bottles |
 | Plastic straws | Reusable metal straws |
 | Plastic restaurant cutlery | Metal cutlery set |
 | Throwing away fruits & vegetable discards | Composting discards & planting seeds |
