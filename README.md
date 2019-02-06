@@ -1,5 +1,3 @@
-# horizon-zero-waste
-
 A simple guide to zero or low waste alternatives.
 
 ## 🍎 Food 
