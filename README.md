@@ -1,4 +1,4 @@
-# ![Horizon Zero Waste - A simple guide to sustainable alternatives][logo-url]
+# [![Horizon Zero Waste - A simple guide to sustainable alternatives][logo-url]][url]
 
 ## 🍎 Food & Drinks
 
@@ -39,4 +39,5 @@
 | Individually packaged items | Bulk items |
 | Store-bought herbs and spices | Homegrown herbs and spices |
 
+[url]: https://horizonzerowaste.com
 [logo-url]: horizon-zero-waste-title.png
