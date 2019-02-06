@@ -1,6 +1,4 @@
-# Horizon Zero Waste 
-
-A simple guide to sustainable alternatives.
+# ![Horizon Zero Waste - A simple guide to sustainable alternatives][logo-url]
 
 ## 🍎 Food & Drinks
 
@@ -40,3 +38,5 @@ A simple guide to sustainable alternatives.
 | Thin plastic bags | Backpacks, totes, thick plastic bags |
 | Individually packaged items | Bulk items |
 | Store-bought herbs and spices | Homegrown herbs and spices |
+
+[logo-url]: horizon-zero-waste-title.png
