@@ -6,19 +6,24 @@ A simple guide to zero waste alternatives.
 
 | Default | Alternative| 
 | --- | --- |
-| Disposable plastic straws | Reusable metal straws |
+| Plastic straws | Reusable metal straws |
 | Throwing away fruits & vegetable discards | Composting discards & planting seeds |
+| Sealed nuts | Bulk nuts |
+| Plastic juice bottles | Freshly squeezed juice |
+| Yogurt cups | Yogurt tubs served in a washable cup |
 
 ## 🧽 Cleaning
 
 | Default | Alternative | 
 | --- | --- |
-| Disposable plastic cleaning spray bottles | Reusable spray bottle with distilled white vinegar & water mix (50% each) |
-| Disposable scented drier sheets | Drier balls & essential oils |
+| Plastic cleaning spray bottles | Reusable spray bottle with distilled white vinegar & water mix (50% each) |
+| Scented drier sheets | Drier balls & essential oils |
+| Swiffer-style mops | Micro-fiber cloth mops |
 
 ## 🚿 Hygiene
 
 | Default | Alternative | 
 | --- | --- |
-| Disposable wet wipes | Reusable washcloth |
+| Wet wipes | Reusable washcloth |
 | Liquid soap | Soap bars |
+| Plastic razors | Safety razors |
