@@ -2,21 +2,21 @@
 
 A simple guide to zero waste alternatives.
 
-## Food
+## 🍎 Food 
 
 | Default | Alternative| 
 | --- | --- | --- |
 | Disposable plastic straws | Reusable metal straws |
 | Throwing away fruits & vegetable discards | Composting discards & planting seeds |
 
-## Cleaning
+## 🧽 Cleaning
 
 | Default | Alternative | 
 | --- | --- |
 | Disposable plastic cleaning spray bottles | Reusable spray bottle with distilled white vinegar & water mix (50% each) |
 | Disposable scented drier sheets | Drier balls & essential oils |
 
-## Hygiene
+## 🚿 Hygiene
 
 | Default | Alternative | 
 | --- | --- |
