@@ -6,6 +6,11 @@ author:
   twitter: olivierlacan
 plugins: 
   - jekyll-seo-tag
+# Jekyll front-matter defaults are so far the only way to 
+# create a default site-wide og:image because someone hasn't 
+# figured out a site.image or site.logo default would make 
+# sense yet. See: 
+# https://jekyllrb.com/docs/configuration/front-matter-defaults/
 defaults:
   -
     scope:
