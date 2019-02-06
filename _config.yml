@@ -1,7 +1,8 @@
 title: Horizon Zero Waste
 description: A simple guide to zero or low waste alternatives.
 url: https://horizonzerowaste.com
-image: horizon-zero-waste.png
+image: 
+  path: horizon-zero-waste.png
 logo: horizon-zero-waste.png
 author:
   twitter: olivierlacan
