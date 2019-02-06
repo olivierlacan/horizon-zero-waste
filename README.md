@@ -37,3 +37,5 @@ A simple guide to zero or low waste alternatives.
 | Default | Alternative | 
 | --- | --- |
 | Thin plastic bags | Backpacks, totes, thick plastic bags |
+| Individually packaged items | Bulk items |
+| Store-bought herbs and spices | Homegrown herbs and spices |
