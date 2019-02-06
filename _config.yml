@@ -6,3 +6,5 @@ image:
 logo: horizon-zero-waste.png
 author:
   twitter: olivierlacan
+plugins: 
+  - jekyll-seo-tag
