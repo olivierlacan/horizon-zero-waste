@@ -39,5 +39,11 @@
 | Individually packaged items | Bulk items |
 | Store-bought herbs and spices | Homegrown herbs and spices |
 
+## 🚀 Space Travel
+
+| Default | Alternative | 
+| --- | --- |
+| Expendable Launch Vehicles | Reusable Launch Vehicles |
+
 [url]: https://horizonzerowaste.com
 [logo-url]: horizon-zero-waste-title.png
