@@ -4,8 +4,8 @@ A simple guide to zero or low waste alternatives.
 
 ## 🍎 Food 
 
-| Default | Alternative| 
-| --- | --- |
+| Default | Alternative |
+| --- | --- | 
 | Plastic straws | Reusable metal straws |
 | Throwing away fruits & vegetable discards | Composting discards & planting seeds |
 | Sealed nuts | Bulk nuts |
@@ -21,6 +21,7 @@ A simple guide to zero or low waste alternatives.
 | Plastic cleaning spray bottles | Reusable spray bottle with distilled white vinegar & water mix (50% each) |
 | Scented drier sheets | Drier balls & essential oils |
 | Swiffer-style mops | Micro-fiber cloth mops |
+| Bleached (white) toilet paper | Unbleached (brown) recycled toilet paper | 
 
 ## 🚿 Hygiene
 
@@ -29,3 +30,9 @@ A simple guide to zero or low waste alternatives.
 | Wet wipes | Reusable washcloth |
 | Liquid soap | Soap bars |
 | Plastic razors | Safety razors |
+
+## 🛍 Shopping 
+
+| Default | Alternative | 
+| --- | --- |
+| Thin plastic bags | Backpacks, totes, thick plastic bags |
