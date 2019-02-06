@@ -1,3 +1,4 @@
+site: Horizon Zero Waste
 description: A simple guide to sustainable alternatives.
 url: https://horizonzerowaste.com
 logo: horizon-zero-waste.png
@@ -16,3 +17,4 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       image: horizon-zero-waste.png
+      title: Horizon Zero Waste
