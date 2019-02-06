@@ -5,7 +5,7 @@ A simple guide to zero waste alternatives.
 ## 🍎 Food 
 
 | Default | Alternative| 
-| --- | --- | --- |
+| --- | --- |
 | Disposable plastic straws | Reusable metal straws |
 | Throwing away fruits & vegetable discards | Composting discards & planting seeds |
 
