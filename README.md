@@ -7,6 +7,7 @@ A simple guide to zero or low waste alternatives.
 | Default | Alternative |
 | --- | --- | 
 | Plastic straws | Reusable metal straws |
+| Plastic restaurant cutlery | Metal cutlery set |
 | Throwing away fruits & vegetable discards | Composting discards & planting seeds |
 | Sealed nuts | Bulk nuts |
 | Plastic juice bottles | Freshly squeezed juice |
