@@ -41,7 +41,7 @@
 
           var currentValue = e.currentTarget.value;
 
-          if(currentValue.length > 3){
+          if(currentValue.length >= 3){
             for(i = 0; i < keywords.length; i++) {
               keyword = keywords[i];
               if(keyword.toLowerCase().includes(currentValue.toLowerCase())) {
