@@ -19,7 +19,64 @@
       {% endif %}
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
+    <script>
+      anchors.add();
+      document.addEventListener("DOMContentLoaded", function(event) {
+        var i = document.createElement("input");
+        var rows = [].slice.call(document.querySelectorAll("tr td:first-child"));
+        var keywords = rows.map(function(value){ return value.textContent });
+
+        i.placeholder = "Type in a keyword...";
+        i.type = "text";
+        i.classList.add("search");
+
+        title = document.querySelector("h1");
+        title.after(i);
+
+        i.addEventListener("keydown", function(e){
+          rows.forEach(function(row) {
+            row.classList.remove("active-row");
+          });
+          var matches = [];
+
+          var currentValue = e.currentTarget.value;
+
+          if(currentValue.length > 3){
+            for(i = 0; i < keywords.length; i++) {
+              keyword = keywords[i];
+              if(keyword.toLowerCase().includes(currentValue.toLowerCase())) {
+                matches.push(keyword);
+              }
+            }
+
+            console.log(matches)
+
+            matchingRows = [];
+
+            if(matches.length > 0){
+              matchingRows = rows.filter(function(row) {
+                if(matches.includes(row.textContent)) {
+                  return row
+                }
+              })
+
+              console.log(matchingRows);
+
+              for(row of matchingRows){
+                console.log(row.textContent);
+                row.classList.add("active-row");
+              }
+            }
+
+          } else {
+            console.log("Not enough characters...")
+          }
+
+        });
+
+
+      });
+    </script>
     <script type="text/javascript">
       var _gauges = _gauges || [];
       (function() {
