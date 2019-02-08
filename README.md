@@ -11,7 +11,7 @@
 | Sealed nuts | Bulk nuts |
 | Plastic juice bottles | Freshly squeezed juice |
 | Yogurt cups | Yogurt tubs served in a washable cup |
-| Coffee pods | Coffea beans and burr grinder |
+| Coffee pods | Coffee beans and burr grinder |
 | Tea sachets | Loose-leaf tea and tea pot |
 
 ## 🧽 Cleaning
