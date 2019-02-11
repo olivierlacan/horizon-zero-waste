@@ -13,6 +13,7 @@
 | Yogurt cups | Yogurt tubs served in a washable cup |
 | Coffee pods | Coffee beans and burr grinder |
 | Tea sachets | Loose-leaf tea and tea pot |
+| Plasitc or paper soda cups | Reusable and washable mugs, bottles, or cups |
 
 ## 🧽 Cleaning
 
@@ -22,6 +23,7 @@
 | Scented drier sheets | Drier balls & essential oils |
 | Swiffer-style mops | Micro-fiber cloth mops |
 | Bleached (white) toilet paper | Unbleached (brown) recycled toilet paper | 
+| Small individual trash bags | Dump small bags into a large one and reuse | 
 
 ## 🚿 Hygiene
 
