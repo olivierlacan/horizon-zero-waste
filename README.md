@@ -43,6 +43,7 @@
 | Individually packaged items | Bulk items |
 | Store-bought herbs and spices | Homegrown herbs and spices |
 | Transaction and invoice paper receipts | Ask for no receipts upfront |
+| Fruit and vegetable paper or plastic bags | Washable mesh bags or nothing at all (veggies have skins for a reason) |
 
 ## 🚀 Space Travel
 
