@@ -23,7 +23,8 @@
 | Scented drier sheets | Drier balls & essential oils |
 | Swiffer-style mops | Micro-fiber cloth mops |
 | Bleached (white) toilet paper | Unbleached (brown) recycled toilet paper | 
-| Small individual trash bags | Dump small bags into a large one and reuse | 
+| Small individual trash bags | Dump small bags into a large one and reuse |
+| Disposable toilet wands | Toilet brushes and detergent |
 
 ## 🚿 Hygiene
 
@@ -32,6 +33,7 @@
 | Wet wipes | Reusable washcloth |
 | Liquid soap | Soap bars |
 | Plastic razors | Safety razors |
+| Cotton swabs for earwax removal | You probably don't need to do this |
 
 ## 🛍 Shopping 
 
@@ -40,6 +42,7 @@
 | Thin plastic bags | Backpacks, totes, thick plastic bags |
 | Individually packaged items | Bulk items |
 | Store-bought herbs and spices | Homegrown herbs and spices |
+| Transaction and invoice paper receipts | Ask for no receipts upfront |
 
 ## 🚀 Space Travel
 
