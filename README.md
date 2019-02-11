@@ -43,7 +43,7 @@
 
 | Default | Alternative | 
 | --- | --- |
-| Expendable Launch Vehicles | Reusable Launch Vehicles |
+| Expendable launch vehicles | Reusable launch vehicles |
 
 [url]: https://horizonzerowaste.com
 [logo-url]: horizon-zero-waste-title.png
