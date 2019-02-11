@@ -16,6 +16,7 @@
 | Plasitc or paper soda cups | Reusable and washable mugs, bottles, or cups |
 | Plastic cutting boards | Wooden cutting boards | 
 | Paper or wax baking liners | Sillicon liners | 
+| Plastic cooking utensils | Wooden cooking utensils | 
 
 ## 🧽 Cleaning
 
