@@ -6,7 +6,7 @@
 | --- | --- | 
 | Bottled water | Filtered water and insulated metal bottles |
 | Plastic straws | Reusable metal straws |
-| Plastic restaurant cutlery | Metal cutlery set |
+| Plastic cutlery | Metal cutlery set |
 | Throwing away fruits & vegetable discards | Composting discards & planting seeds |
 | Sealed nuts | Bulk nuts |
 | Plastic juice bottles | Freshly squeezed juice |
@@ -14,6 +14,8 @@
 | Coffee pods | Coffee beans and burr grinder |
 | Tea sachets | Loose-leaf tea and tea pot |
 | Plasitc or paper soda cups | Reusable and washable mugs, bottles, or cups |
+| Plastic cutting boards | Wooden cutting boards | 
+| Paper or wax baking liners | Sillicon liners | 
 
 ## 🧽 Cleaning
 
@@ -25,6 +27,7 @@
 | Bleached (white) toilet paper | Unbleached (brown) recycled toilet paper | 
 | Small individual trash bags | Dump small bags into a large one and reuse |
 | Disposable toilet wands | Toilet brushes and detergent |
+| Kitchen paper towels | Washable cotton towels | 
 
 ## 🚿 Hygiene
 
