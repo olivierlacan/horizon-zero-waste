@@ -61,6 +61,6 @@
 --- 
 
 ## 🔗 Sources and resources
-- https://www.goingzerowaste.com
-- http://trashisfortossers.com
-- https://zerowastehome.com
+- <https://www.goingzerowaste.com>
+- <http://trashisfortossers.com>
+- <https://zerowastehome.com>
