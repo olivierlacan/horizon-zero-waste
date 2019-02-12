@@ -57,3 +57,10 @@
 
 [url]: https://horizonzerowaste.com
 [logo-url]: horizon-zero-waste-title.png
+
+--- 
+
+## 🔗 Sources and resources
+- https://www.goingzerowaste.com
+- http://trashisfortossers.com
+- https://zerowastehome.com
