@@ -24,7 +24,7 @@
 | Default | Alternative | 
 | --- | --- |
 | Plastic cleaning spray bottles | Reusable spray bottle with distilled white vinegar & water mix (50% each) |
-| Scented drier sheets | Drier balls & essential oils |
+| Scented dryer sheets | Dryer balls & essential oils |
 | Swiffer-style mops | Micro-fiber cloth mops |
 | Bleached (white) toilet paper | Unbleached (brown) recycled toilet paper | 
 | Small individual trash bags | Dump small bags into a large one and reuse |
