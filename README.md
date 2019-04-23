@@ -13,7 +13,7 @@
 | Yogurt cups | Yogurt tubs served in a washable cup |
 | Coffee pods | Coffee beans and burr grinder |
 | Tea sachets | Loose-leaf tea and tea pot |
-| Plasitc or paper soda cups | Reusable and washable mugs, bottles, or cups |
+| Plastic or paper soda cups | Reusable and washable mugs, bottles, or cups |
 | Plastic cutting boards | Wooden cutting boards | 
 | Paper or wax baking liners | Sillicon liners | 
 | Plastic cooking utensils | Wooden cooking utensils | 
