@@ -17,7 +17,7 @@
 | Plastic cutting boards | Wooden cutting boards | 
 | Paper or wax baking liners | Silicone liners | 
 | Plastic cooking utensils | Wooden cooking utensils | 
-| Paper nakpins | Washable cloth napkins |
+| Paper napkins | Washable cloth napkins |
 
 ## 🧽 Cleaning
 
