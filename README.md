@@ -18,6 +18,7 @@
 | Paper or wax baking liners | Silicone liners | 
 | Plastic cooking utensils | Wooden cooking utensils | 
 | Paper nakpins | Washable cloth napkins |
+| Disposable Ziploc bags | Washable silicone zip storage bags
 
 ## 🧽 Cleaning
 
