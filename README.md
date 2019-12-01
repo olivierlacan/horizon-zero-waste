@@ -40,7 +40,9 @@
 | Toilet Paper | Bamboo toilet paper |
 | Wet wipes | Reusable washcloth |
 | Liquid soap | Bar soap |
-| Plastic razors | Safety razors |
+| Liquid shampoo | Bar shampoo |
+| Bottled conditioner | Conditionner bars |
+| Plastic razors | Safety razors with disposable metal blades |
 | Cotton swabs with plastic rods | Cotton swabs with paper rods |
 
 ## 🛍 Shopping 
