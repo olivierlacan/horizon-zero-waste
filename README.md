@@ -36,6 +36,7 @@
 
 | Default | Alternative | 
 | --- | --- |
+| Toilet Paper | Bamboo toilet paper |
 | Wet wipes | Reusable washcloth |
 | Liquid soap | Bar soap |
 | Plastic razors | Safety razors |
