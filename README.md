@@ -7,6 +7,7 @@
 | Bottled water | Filtered water and insulated metal bottles |
 | Plastic straws | Reusable metal straws |
 | Plastic cutlery | Metal cutlery set |
+| Hard plastic containers (tupperware) | Mason jars |
 | Throwing away fruits & vegetable discards | Composting discards & planting seeds |
 | Packaged nuts | Bulk nuts |
 | Plastic juice bottles | Freshly squeezed juice |
