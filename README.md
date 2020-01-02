@@ -43,7 +43,7 @@
 | Liquid shampoo | Bar shampoo |
 | Bottled conditioner | Conditionner bars |
 | Plastic razors | Safety razors with disposable metal blades |
-| Cotton swabs with plastic rods | Cotton swabs with paper rods |
+| Cotton swabs with plastic rods | Cotton swabs with paper rods, silicon swabs |
 
 ## 🛍 Shopping 
 
