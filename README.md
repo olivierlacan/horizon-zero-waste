@@ -41,7 +41,7 @@
 | Wet wipes | Reusable washcloth |
 | Liquid soap | Bar soap |
 | Liquid shampoo | Bar shampoo |
-| Bottled conditioner | Conditionner bars |
+| Bottled conditioner | Conditioner bars |
 | Plastic razors | Safety razors with disposable metal blades |
 | Cotton swabs with plastic rods | Cotton swabs with paper rods, silicon swabs |
 
