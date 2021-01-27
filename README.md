@@ -44,6 +44,7 @@
 | Bottled conditioner | Conditionner bars |
 | Plastic razors | Safety razors with disposable metal blades |
 | Cotton swabs with plastic rods | Cotton swabs with paper rods, silicon swabs |
+| Deodorant in solid plastic dispenser, spray can, or roll-on bottles | Deodorant in push-through cardboard dispenser | 
 
 ## 🛍 Shopping 
 
