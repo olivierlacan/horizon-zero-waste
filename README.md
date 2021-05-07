@@ -25,7 +25,7 @@
 
 | Default | Alternative | 
 | --- | --- |
-| Plastic cleaning spray bottles | Reusable spray bottle with distilled white vinegar & water mix (50% each) |
+| Plastic cleaning spray bottles | Reusable glass spray bottle with protective sleeve |
 | Scented dryer sheets | Dryer balls & essential oils |
 | Swiffer-style mops | Micro-fiber cloth mops |
 | Bleached (white) toilet paper | Unbleached (brown) recycled toilet paper | 
